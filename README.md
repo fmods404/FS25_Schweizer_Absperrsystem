@@ -1,6 +1,6 @@
 # Schweizer Absperrsystem – Mod für Farming Simulator 25
 
-![Absperrsystem Banner](https://your-image-link-if-available.com)
+![Absperrsystem Banner](vorsignal1.png)
 
 ## 🛠 Beschreibung
 
@@ -11,42 +11,35 @@ Das System basiert auf realen Schweizer Vorbildern und enthält reflektierende E
 ## 🔧 Features
 
 - Absperrlatten
-- Versionen in **3 m** und **4 m Länge** jeweils konfigurierbar
+- Versionen in **2 m**, **3 m** und **4 m Länge** jeweils konfigurierbar
 - Konfigurierbare Vorsignale
 - Platzierbare Objekte für flexible Verwendung
-- Optimiert für Präzisionsplatzierung
 - Kompatibel mit MP und allen TP-Maps
 
 ## 📂 Inhalt
 
-- Platzierbares 4 Meter Element
-- Platzierbares 3 Meter Element
-- Platzierbares 2 Meter Element
+- Platzierbare 4 Meter, 3 Meter und 2 Meter Elemente
+- Platzierbare Bodenmarkierungen (Orange) in diversen Grössen
 - Platzierbare Vorsignale
 - Kaufbare Vorsignale
+- Kaufbare Deko Paletten
+- Kaufbare 2m, 3m und 4m Elemente
 
 ## 🧱 Credits
 
-- Modellierung & Texturen: **fmods**
-- Vorlage: Schweizer Verkehrssignale & Bauzubehör
-- Testing & Umsetzung im GIANTS Editor: **fmods**
-
+- Modell, Texturen, XML & Scripts: **fmods**
+- Danke an Came fürs testen meiner Mods
+  
 ## 📜 Lizenz
 
-Dieser Mod ist **nur für den privaten Gebrauch oder innerhalb freigegebener Discord-Communities** bestimmt. Keine Reuploads ohne ausdrückliche Genehmigung.
+Dieser Mod darf **nicht ohne Zustimmung weiterverbreitet oder verändert** hochgeladen werden.
 
 ## 📎 Hinweise
 
-- Weitere Elemente (z. B. Baustellenschilder, Lichtmodule) in Vorbereitung
-- Feedback & Wünsche gerne via Discord
+- Mod befindet sich aktuell in der finalen Testphase
+- Für Feedback, Bugs oder Ideen bitte Kontakt über Discord: `fmods` oder über GitHub Issues
 
-## 📎 Geplant
+📥 [Mod herunterladen](https://mega.nz/file/nlp3iSBZ#BAwBybJFmULWThOPCFdWjAlqvtC2BvQLyATGxGGrnRI)
 
-- Temporäre Bodenmarkierungen
-- Weitere Absperrungen
-- Ausstattbar mit Lampen
-
----
-
-**Für realistische Schweizer Baustellen im LS25!**  
+**Viel Spaß!**  
 *– fmods*
